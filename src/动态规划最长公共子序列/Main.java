@@ -4,7 +4,7 @@
 package 动态规划最长公共子序列;
 
 import java.util.Scanner;
-
+//github测试
 
 /**
  *c[i][j] :用来存储序列Xi和Yi的最长公共子序列的长度,i,j分别为数组的下标
